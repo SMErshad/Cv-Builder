@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">CVBuilderApplicationAssignment6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home">Home</string>
+    <string name="about_me">About Me</string>
+    <string name="work">Work</string>
+    <string name="contact">Contact</string>
+
+    <string name="cv">CV</string>
+
+    <string name="add">Add</string>
+
+    <string name="whatsapp">Whats App</string>
+    <string name="gmail">Gmail</string>
+    <string name="telegram">Telegram</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="cover_photo">Cover Photo</string>
+
+    <string name="name">SM Ershad Ul Islam</string>
+    <string name="position">AI Engineer</string>
+
+    <string name="career_note">Career Note</string>
+    <string name="career_note_desc"><b>Completed Bachelor in CSE. </b>Currently Pursuing Masters in Computer Science (Available for full-time <b>W2</b> employment).</string>
+    <string name="work_experience">Work Experience</string>
+    <string name="work_experience_desc"><b>Language: </b>Python, Java, C#, Machine Learning \n<b>Frameworks: </b>Tensorflow, Keras, Pytorch, Numpy, Panadas, Springboot, ASP.net \n<b>Microservices/Cloud: </b>AWS, GCP, Kubeflow, AutoML, MlFlow, Kubernestes, Azure \n<b>Databases: </b>MS SQL Server, MySql, MongoDB, PostGreSql \n<b>Tools: </b>VS Code, Intellij IDE, Jupyter Notebook, Google Colab, Maven, Git \n</string>
+
+    <string name="about_me_desc">Efficient machine learning engineer with experience in full stack web application development in Python, Java and JavaScript. </string>
+
+    <string name="education">Education</string>
+    <string name="my_college">My College</string>
+    <string name="certification">Certification</string>
+
+    <string name="my_contacts">My Contacts</string>
+
+    <string name="information_to_share">
+        Name: SM Ershad Ul Islam
+        LinkedIn Profile: https://www.linkedin.com/in/ershadul-islam
+    </string>
+
+    <string name="email">smislam@miu.edu</string>
+    <string name="linkedin_profile">https://www.linkedin.com/in/ershadul-islam</string>
+    <string name="github_profile">https://github.com/SMErshad</string>
+
+    <string name="login">login</string>
+    <string name="enter_email">Enter your email here…</string>
+    <string name="enter_password">Enter your password here…</string>
+
+</resources>
